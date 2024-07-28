@@ -12,6 +12,4 @@
 - ✨ Contact me:
      -> mailto: projipriyanshu94@gmail.com
      -> LinkedIn: www.linkedin.com/in/priyanshu-proji-131492245 
-- ✨ Fun Facts:
-     -> I'm a coffee enthusiast.
-     -> I believe in the power of a good workout to boost productivity and creativity.
+
